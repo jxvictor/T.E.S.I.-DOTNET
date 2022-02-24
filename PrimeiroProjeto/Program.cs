@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using PrimeiroProjeto;
 
-//Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
 
 Pessoa novaPessoa = new Pessoa("João Victor", 21);
 
